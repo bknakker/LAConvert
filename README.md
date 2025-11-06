@@ -16,3 +16,5 @@ in a row.
 Also note that some messages fail to arrive at the Converter app; in that 
 case a new converter window is opened and the program tries again. This means
 that several failed Converter windows might be open at the end of the process.
+
+Copyright (c) 2021 Balázs Knakker, MIT License
